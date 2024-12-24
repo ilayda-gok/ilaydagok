@@ -9,4 +9,4 @@ My personal profile repository
 
 🌟 **Contact Me**  
 - 📫 Email: ilayda44gok@gmail.com  
-- 🌐 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ilayda-nur-gök-b394a7307)
+- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ilayda-nur-g%C3%B6k-b394a7307/)
